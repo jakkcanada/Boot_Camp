@@ -1,2 +1,1 @@
-# Boot_Camp
-Assignment 1: Hello World Basic Smart Contract
+# Assignment 2: How to learn Python, Data Structure and Algorithm
