@@ -1,0 +1,16 @@
+#My Referenced Tutorial URL
+
+# Create an EC2 instance and install a web server
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
+
+# How to Install and Configure Apache
+https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
+
+# Walkthrough: Set up an Apache web server and serve Amazon EFS files
+https://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html#wt2-apache-web-server-one-ec2-host
+
+# How to Deploy a Node.js application in AWS EC2
+https://aws.plainenglish.io/deploying-a-nodejs-application-in-aws-ec2-c1618b9b3874
+
+# How to Install Git on Ubunto 20.04
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04
